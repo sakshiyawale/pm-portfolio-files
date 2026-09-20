@@ -2,7 +2,11 @@
 
 A collection of product case studies, teardowns, and PRDs, built while transitioning from software engineering into product management.
 
-Each piece includes the full reasoning: the problem, the research behind it, the trade-offs considered, and (where relevant) the metrics used to judge success. Full case studies and PRDs live in this repo; a shorter version of each is also linked from my [portfolio site](https://sakshiyawale.com).
+## Why this exists
+
+I spent two years as a backend software engineer at Veritas Technologies before deciding to move into product. Rather than just saying I want to be a PM, I wanted to actually do the work, research problems, write specs, reason through trade-offs, and see if the thinking holds up. This repo is that effort: a running record of me learning to think like a PM, built on top of an engineering background rather than instead of it.
+
+Each piece includes the full reasoning: the problem, the research behind it, the trade-offs considered, and (where relevant) the metrics used to judge success.
 
 ## Projects
 
